@@ -5,7 +5,9 @@ using UnityEngine;
 public class PostProcessingManager : MonoBehaviour
 {
 
-    public GameObject pp;
+    public GameObject ppReal;
+    public GameObject ppBloom;
+    public GameObject ppContrast;
 
     // Start is called before the first frame update
     void Start()
@@ -19,8 +21,22 @@ public class PostProcessingManager : MonoBehaviour
 
     }
 
-     public void PostProcessing()
+     public void PPreal()
     {
-        pp.SetActive(false);
+        ppReal.SetActive(true);
+        ppBloom.SetActive(false);
+        ppContrast.SetActive(false);
+    }
+    public void PPbloom()
+    {
+        ppReal.SetActive(false);
+        ppBloom.SetActive(true);
+        ppContrast.SetActive(false);
+    }
+    public void PPContrast()
+    {
+        ppReal.SetActive(false);
+        ppBloom.SetActive(false);
+        ppContrast.SetActive(true);
     }
 }

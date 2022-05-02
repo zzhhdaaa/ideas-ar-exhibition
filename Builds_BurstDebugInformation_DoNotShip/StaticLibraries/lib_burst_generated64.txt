@@ -164,11 +164,11 @@ Library: lib_burst_generated64
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.Timeline.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.Mathematics.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.InteractionSubsystems.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll
---root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.Tutorials.Core.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll
