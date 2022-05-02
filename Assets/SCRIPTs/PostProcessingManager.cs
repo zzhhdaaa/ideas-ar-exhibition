@@ -4,10 +4,13 @@ using UnityEngine;
 
 public class PostProcessingManager : MonoBehaviour
 {
-
+    /*
     public GameObject ppReal;
     public GameObject ppBloom;
     public GameObject ppContrast;
+    */
+
+    public List<GameObject> pps;
 
     // Start is called before the first frame update
     void Start()
@@ -20,7 +23,7 @@ public class PostProcessingManager : MonoBehaviour
     {
 
     }
-
+    /*
      public void PPreal()
     {
         ppReal.SetActive(true);
@@ -38,5 +41,23 @@ public class PostProcessingManager : MonoBehaviour
         ppReal.SetActive(false);
         ppBloom.SetActive(false);
         ppContrast.SetActive(true);
+    }*/
+
+    public void PPSwitch(int id)
+    {
+        if(id >=0 && id < pps.Count)
+        {
+            for(int i = 0; i < pps.Count; i++)
+            {
+                if(i == id)
+                {
+                    pps[i].SetActive(true);
+                }
+                else
+                {
+                    pps[i].SetActive(false);
+                }
+            }
+        }
     }
 }
