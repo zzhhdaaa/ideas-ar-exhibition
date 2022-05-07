@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 299b605525abf904080be4acf7be8d45
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe
+    second: {fileID: 2100000, guid: db4c2d0f1f59bea44a188e357f2ec4e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe.1
+    second: {fileID: 2100000, guid: 90c06671dfb4902488c43b417a83b323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe.2
+    second: {fileID: 2100000, guid: 8754d40dbc58624449ce60af3dd55100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe__5_
+    second: {fileID: 2100000, guid: cd416049345e83044a730906c9e7b546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe__5_.1
+    second: {fileID: 2100000, guid: 3fd13cc3b5661ed4cba79fe3e1f083ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe__5_.2
+    second: {fileID: 2100000, guid: 7612f49a0f337c948a68db49803d9f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe__5_.3
+    second: {fileID: 2100000, guid: 4b099b0b69447104189f8da9e7c5d565, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-70b9eea8f7080f701ab33be83a759cbe__5_.4
+    second: {fileID: 2100000, guid: 4c4f3c3d42417244e882bc79dfc629b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-Screen_Shot_2016-12-27_at_6.11.15_PM
+    second: {fileID: 2100000, guid: 86c1e23aaf7661e4993133083e464934, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-Tom-LaDuke-Courtesy-of-Miles-McEnery-Gallery
+    second: {fileID: 2100000, guid: d71b06aceffd96f49a0af92b97bfcf42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-Tom-LaDuke-Polyrhythmic-Looping-2014-acrylic-and-glitter-on-canvas-over-panel-53-x-95-x-2-inches
+    second: {fileID: 2100000, guid: 66821304ecb387f43a546b36b86903ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-Turquoise_Glass
+    second: {fileID: 2100000, guid: 8bbb7cdf2a37d3d448601279b7778789, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-Turquoise_Glass.1
+    second: {fileID: 2100000, guid: db180d040ec9ab94399b23fcf93de570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-White_Matte__3103_
+    second: {fileID: 2100000, guid: 14fb4246dd447f341a0bc0c57146acfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-cc7a0062-a45a-4a5a-800f-a0caa728cd51_647_650__1_
+    second: {fileID: 2100000, guid: e5b1491afa895344fbc60c3eb7b129ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__42_
+    second: {fileID: 2100000, guid: 3baa5c0328ce4ba41bbed271d29b1ceb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__42_.1
+    second: {fileID: 2100000, guid: 4afa27e22b9d66449af26558db29cec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__42_.2
+    second: {fileID: 2100000, guid: 8394e8ae6011b4e4198ab514b522f000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__42_.3
+    second: {fileID: 2100000, guid: 1e2daaf669d778149affaa4a03b979ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__42_.4
+    second: {fileID: 2100000, guid: 5ac411ae85ab63744b7b717a96ae5dbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__42_.5
+    second: {fileID: 2100000, guid: 9c48b2550c5b1df4990bab4fa3e3b8a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__42_.6
+    second: {fileID: 2100000, guid: 527cf70a47cafad4eb61429ad64d4431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__43_
+    second: {fileID: 2100000, guid: b68c66f1192d9e54fb8529dd0328ea12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__43_.1
+    second: {fileID: 2100000, guid: 0e80eb3c3719b6849b45054f9c81b10e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-d2nyq18-1001c773-1a80-43dd-8650-3001363913af__43_.2
+    second: {fileID: 2100000, guid: 3a1b2a046fad76c49bb09f81f4523d17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-laduke-tom-mirror-drive-thumb
+    second: {fileID: 2100000, guid: f9bb3a0488da0c04585354a44e96df0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-laduke-tom-mirror-drive-thumb.1
+    second: {fileID: 2100000, guid: b2f18469dac02ea4b90bc85bd7a1977e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-pngtree-rainbow-creative-texture-matte-background-image_331592.jpg
+    second: {fileID: 2100000, guid: 32a33d869796af24493e2622f266bf17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-pngtree-rainbow-creative-texture-matte-background-image_331592.jpg.1
+    second: {fileID: 2100000, guid: 8cb801b91a708ab4eba138d21b080e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-pngtree-rainbow-creative-texture-matte-background-image_331592.jpg.2
+    second: {fileID: 2100000, guid: a7c46fa5524f02c46b5a4762be0b5fd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-pngtree-rainbow-creative-texture-matte-background-image_331592.jpg.3
+    second: {fileID: 2100000, guid: c89c5f0aed61ee64695dbfc0bdb376b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-pngtree-rainbow-creative-texture-matte-background-image_331592.jpg.4
+    second: {fileID: 2100000, guid: 09930bfa5c742ca4397ae3787d8d502e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-pngtree-rainbow-creative-texture-matte-background-image_331592.jpg.5
+    second: {fileID: 2100000, guid: 1cae591d8b2eae241aa12ab084821290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-pngtree-rainbow-creative-texture-matte-background-image_331592.jpg.6
+    second: {fileID: 2100000, guid: 24e0f63b811d7e246b1754b02b65d0fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3
+    second: {fileID: 2100000, guid: 17412f2d6e7cc334c96eb79470033ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3__2_
+    second: {fileID: 2100000, guid: c596e62ddd24f444abb474321a599dc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3__3_
+    second: {fileID: 2100000, guid: 35f19248be208ec4fae39dbfa5442bfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3__4_
+    second: {fileID: 2100000, guid: c91488688f6ddbf47a85212ee894046b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3__4_.1
+    second: {fileID: 2100000, guid: 6269f66e8fb836a44a6dcdeae120efe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3__5_
+    second: {fileID: 2100000, guid: 2eaf9c68f66724e4db2ace6054fc05f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3__6_
+    second: {fileID: 2100000, guid: 0942635a6a86e994fab07beed0f6c73b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-wallpaper_yellow-spots-black-polka-dots-5120x2880-c2-000000-ffff00-l2-73-148-a-315-f-3__7_
+    second: {fileID: 2100000, guid: 3cbf7da5351931c478af3f82a3dfb5c0, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

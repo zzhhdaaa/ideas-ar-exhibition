@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 3813167e01df7634fbc5c35cfb84ac5d
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Car_Paint_Flakes
+    second: {fileID: 2100000, guid: fe67ddede5262e84684e6d9d0e55d1e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy Material
+    second: {fileID: 2100000, guid: a389722cacf51a14ca72020885052b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy material
+    second: {fileID: 2100000, guid: 6ec9e0742366ace40bb1e7fc8ec9d62c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glossy material_0
+    second: {fileID: 2100000, guid: bc4f10bd678f7b24fafd9bcb7c719a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-Tom-LaDuke-Courtesy-of-Miles-McEnery-Gallery
+    second: {fileID: 2100000, guid: 374fab044f4e8a844b8f66b543e3d6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-Tom-LaDuke-Polyrhythmic-Looping-2014-acrylic-and-glitter-on-canvas-over-panel-53-x-95-x-2-inches
+    second: {fileID: 2100000, guid: 571e2af4ad19fe948bb387a1caa7402a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-White_Matte
+    second: {fileID: 2100000, guid: 812c7fd8b45b86f4eb4b22fd8c7a771b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-White_Matte.1
+    second: {fileID: 2100000, guid: abc7b276d391a73428eed8a8bf68fef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-cc7a0062-a45a-4a5a-800f-a0caa728cd51_647_650
+    second: {fileID: 2100000, guid: 18a400be288e43b4f97a2c2edd74a928, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-laduke-tom-mirror-drive-thumb
+    second: {fileID: 2100000, guid: ce5c7d223615b4c48b1b526deca13cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plantarlapidusplate
+    second: {fileID: 2100000, guid: 721115fe37ce642459464258da405817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: copper (original)
+    second: {fileID: 2100000, guid: bbdca34093d020d499e401b6666f4fb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gold (sample 585) yellow
+    second: {fileID: 2100000, guid: 2540ad39f14cdf3469c2d5d83f85e6e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oven
+    second: {fileID: 2100000, guid: 0bd230ce00dd6644b8ed5a51e94dfd78, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tom-LaDuke-Courtesy-of-Miles-McEnery-Gallery
+    second: {fileID: 2800000, guid: 2bf31feecbc7ad94ca8342a6d465a5d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tom-LaDuke-Polyrhythmic-Looping-2014-acrylic-and-glitter-on-canvas-over-panel-53-x-95-x-2-inches
+    second: {fileID: 2800000, guid: 7fa1eecf858d31744b83dfdc5087bf69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cc7a0062-a45a-4a5a-800f-a0caa728cd51_647_650 (1)
+    second: {fileID: 2800000, guid: f165b670a8e79734c8e23a8fda4b41cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: d6rudwh-6633f8e8-ede9-4529-ad41-6a1994125d04
+    second: {fileID: 2800000, guid: 2fa0afbe92adcbe419686cc9349453f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: laduke-tom-mirror-drive-thumb
+    second: {fileID: 2800000, guid: 7db68c2fb778cfe468d883dde286feaa, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
