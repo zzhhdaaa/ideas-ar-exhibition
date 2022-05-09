@@ -456,7 +456,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ObjectsToPlace:
   - {fileID: 1036227944020301021, guid: 6862f35718ae14db499b0bc9aa2221c1, type: 3}
-  - {fileID: 5954275286149560720, guid: 56fa1813eb7ef304d8b4b6daeaa2b9a5, type: 3}
+  - {fileID: 1900517250669655961, guid: a5e3c8780ea187f42ae8ca09c4dab67e, type: 3}
   - {fileID: 6130816974436761668, guid: 0229ba762fba55d449fab8060075f02d, type: 3}
   - {fileID: 1079947355573974539, guid: feec3a52515afb04ea45245593131b98, type: 3}
 --- !u!1 &705507993
