@@ -55,7 +55,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _FlakesRGBcolorvariationAmask:
         m_Texture: {fileID: 2800000, guid: 67895d953be64bc4bd0b09b78633f920, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 200, y: 400}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: fb31c9a064fa8af4c94d6eba26d6c27b, type: 3}
@@ -114,7 +114,7 @@ Material:
     - _EnvironmentReflections: 1
     - _FlakeColorVariationAmount: 0.121
     - _FlakesBump: 0.111
-    - _FlakesSmoothness: 0.505
+    - _FlakesSmoothness: 0.809
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
@@ -135,12 +135,12 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
-    - _BaseColor1: {r: 0.39705768, g: 0.19232678, b: 0.03503461, a: 0}
-    - _BaseColor2: {r: 0.035034638, g: 0.08247126, b: 0.3970577, a: 0}
+    - _BaseColor1: {r: 1, g: 0.7874528, b: 0.0990566, a: 0}
+    - _BaseColor2: {r: 0.6037736, g: 0.088287644, b: 0.43413645, a: 0}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FlakesColor1: {r: 1, g: 0, b: 0.47817135, a: 0}
-    - _FlakesColor2: {r: 0.06905645, g: 0, b: 0.7735849, a: 0}
+    - _FlakesColor1: {r: 0.99747145, g: 1, b: 0, a: 0}
+    - _FlakesColor2: {r: 0.77254903, g: 0.32329497, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3171179222904617052

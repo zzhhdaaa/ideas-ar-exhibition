@@ -55,7 +55,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _FlakesRGBcolorvariationAmask:
         m_Texture: {fileID: 2800000, guid: 67895d953be64bc4bd0b09b78633f920, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 50, y: 50}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
         m_Texture: {fileID: 2800000, guid: 7d236c0a5a6e77d4ca884d419a7112e2, type: 3}

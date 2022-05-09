@@ -16,4 +16,44 @@ MonoBehaviour:
   m_GuidHigh: 2833589743727241899
   m_DataStore:
     m_Storage: []
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4770962858342015805
+      m_GuidHigh: 13756094162640921476
+    m_SerializedTextureGuid:
+      m_GuidLow: 2473691456491230973
+      m_GuidHigh: 12756731513648436232
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: XOAD-01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5717277163279372894
+      m_GuidHigh: 10917338527724168620
+    m_SerializedTextureGuid:
+      m_GuidLow: 8409464674251604487
+      m_GuidHigh: 17393186054034092091
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: XOAD-02
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5093568782094022519
+      m_GuidHigh: 6693930316976048260
+    m_SerializedTextureGuid:
+      m_GuidLow: 1847726055450824319
+      m_GuidHigh: 12844329181017533898
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: XOAD-03
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5314906562862460629
+      m_GuidHigh: 10325570468391697284
+    m_SerializedTextureGuid:
+      m_GuidLow: 18074260199671238099
+      m_GuidHigh: 7632561466090492475
+    m_Size: {x: 0.16, y: 0.16}
+    m_SpecifySize: 1
+    m_Name: XOAD-04
+    m_Texture: {fileID: 0}
