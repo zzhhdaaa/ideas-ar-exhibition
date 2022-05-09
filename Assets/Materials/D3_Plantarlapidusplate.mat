@@ -21,9 +21,10 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: D3_Plantarlapidusplate
-  m_Shader: {fileID: 4800000, guid: 6168b1f52830d1c4885f2afca192a276, type: 3}
+  m_Shader: {fileID: 4800000, guid: 33c9ee24db1e3fa498d4c25458d5695e, type: 3}
   m_ValidKeywords: []
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - _ADD_PRECOMPUTED_VELOCITY
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -53,6 +54,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _CoatNormal:
+        m_Texture: {fileID: 2800000, guid: 221db06f30ae4c25a257d852f88a374d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -67,6 +72,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesNormal:
+        m_Texture: {fileID: 2800000, guid: 8f66c1c8460e4419a467d27f526fad23, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlakesRGBcolorvariationAmask:
+        m_Texture: {fileID: 2800000, guid: 67895d953be64bc4bd0b09b78633f920, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FrontFacesAlbedo:
@@ -137,17 +150,25 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
+    - _BaseOcclusion: 1.6204118
+    - _BaseSmoothness: 0.447
     - _Blend: 0
     - _BlurSize: 0
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
+    - _CoatAmount: 2.33
+    - _CoatBump: 0.117
+    - _CoatSmoothness: 0.265
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
+    - _FlakeColorVariationAmount: 0.121
+    - _FlakesBump: 0.111
+    - _FlakesSmoothness: 0.809
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
@@ -163,6 +184,7 @@ Material:
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
+    - _SmoothnessMultiplier: 1.89
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -178,9 +200,13 @@ Material:
     m_Colors:
     - _BackFacesColor: {r: 0.15218942, g: 0.19205727, b: 0.7169812, a: 0}
     - _BaseColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
+    - _BaseColor1: {r: 1, g: 0.7874528, b: 0.0990566, a: 0}
+    - _BaseColor2: {r: 0.6037736, g: 0.088287644, b: 0.43413645, a: 0}
     - _Center: {r: -0.412, g: 0.609, b: 0, a: 0}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FlakesColor1: {r: 0.99747145, g: 1, b: 0, a: 0}
+    - _FlakesColor2: {r: 0.77254903, g: 0.32329497, b: 0, a: 0}
     - _FrontFacesColor: {r: 1, g: 0.7058863, b: 0, a: 0}
     - _NoiseMapPannerSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _NoiseMapSize: {r: 512, g: 512, b: 0, a: 0}

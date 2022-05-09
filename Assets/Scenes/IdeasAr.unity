@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.4439403, g: 0.4931519, b: 0.5722083, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -318,8 +318,8 @@ GameObject:
   - component: {fileID: 388525033}
   - component: {fileID: 388525035}
   - component: {fileID: 388525037}
-  - component: {fileID: 388525036}
   - component: {fileID: 388525038}
+  - component: {fileID: 388525039}
   m_Layer: 0
   m_Name: AR Session Origin
   m_TagString: Untagged
@@ -410,32 +410,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AnchorPrefab: {fileID: 0}
---- !u!114 &388525036
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 388525029}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 467eefdf66a9b4c24b9d89f2f71b2ce9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_PrefabsList:
-  - imageGuid: 280ee33d-dd71-4235-8463-090dc276e7be
-    imagePrefab: {fileID: 1900517250669655961, guid: a5e3c8780ea187f42ae8ca09c4dab67e,
-      type: 3}
-  - imageGuid: dfb8525e-d949-4f57-ac65-af658c2d8297
-    imagePrefab: {fileID: 5954275286149560720, guid: 56fa1813eb7ef304d8b4b6daeaa2b9a5,
-      type: 3}
-  - imageGuid: 07bbb777-fdd2-46af-8448-9346289ee55c
-    imagePrefab: {fileID: 6130816974436761668, guid: 0229ba762fba55d449fab8060075f02d,
-      type: 3}
-  - imageGuid: fdcf2ed5-575b-49c2-843b-c03fa2cb4b8f
-    imagePrefab: {fileID: 1079947355573974539, guid: feec3a52515afb04ea45245593131b98,
-      type: 3}
-  m_ImageLibrary: {fileID: 11400000, guid: de1d09ba5dcd8f84087d396794c3d600, type: 2}
 --- !u!114 &388525037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -451,7 +425,8 @@ MonoBehaviour:
   m_SerializedLibrary: {fileID: 11400000, guid: de1d09ba5dcd8f84087d396794c3d600,
     type: 2}
   m_MaxNumberOfMovingImages: 4
-  m_TrackedImagePrefab: {fileID: 0}
+  m_TrackedImagePrefab: {fileID: 6130816974436761668, guid: 0229ba762fba55d449fab8060075f02d,
+    type: 3}
 --- !u!114 &388525038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -468,6 +443,23 @@ MonoBehaviour:
   m_EnvironmentTextureFilterMode: 2
   m_EnvironmentTextureHDR: 1
   m_DebugPrefab: {fileID: 0}
+--- !u!114 &388525039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 388525029}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88f0dc78ae2124756ab42807ddad438f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObjectsToPlace:
+  - {fileID: 1036227944020301021, guid: 6862f35718ae14db499b0bc9aa2221c1, type: 3}
+  - {fileID: 5954275286149560720, guid: 56fa1813eb7ef304d8b4b6daeaa2b9a5, type: 3}
+  - {fileID: 6130816974436761668, guid: 0229ba762fba55d449fab8060075f02d, type: 3}
+  - {fileID: 1079947355573974539, guid: feec3a52515afb04ea45245593131b98, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
