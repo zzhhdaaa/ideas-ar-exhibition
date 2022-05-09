@@ -104,7 +104,6 @@ public class ImageTrackerManager : MonoBehaviour
         foreach (var addedImage in args.added)
         {
             ActivateTrackedObject(addedImage.referenceImage.name);
-
         }
 
         // for each tracked image that has been updated
