@@ -3,37 +3,7 @@ guid: 24f0d5e6348851b43961b4fec68191db
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Matt paint Black
-    second: {fileID: 2100000, guid: c88907c658b5c9e489a4aee9fb2baa70, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: OctGlossy1
-    second: {fileID: 2100000, guid: 12566999dda639d4bb380ddcbca22427, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: OctSpecular1
-    second: {fileID: 2100000, guid: 14210b2927bd27d4e8b2cfb20cb445ec, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Polished Concrete
-    second: {fileID: 2100000, guid: 01cf4a5d3d899c741b8518edb0b208df, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Rusted Iron
-    second: {fileID: 2100000, guid: 210ba2234b53a25448f7489dd30cc672, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: SOBE_Plastic_White
-    second: {fileID: 2100000, guid: 3b66f73e162983442a8ccb38d0f98128, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -99,11 +69,11 @@ ModelImporter:
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 0
+    blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
   referencedClips: []
   importAnimation: 1
