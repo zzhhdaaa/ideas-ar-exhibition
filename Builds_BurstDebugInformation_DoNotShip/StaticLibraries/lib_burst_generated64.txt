@@ -154,6 +154,7 @@ Library: lib_burst_generated64
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.ARFoundation.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.ARKit.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.InputSystem.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll
@@ -163,13 +164,14 @@ Library: lib_burst_generated64
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.Burst.dll
---root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/PaintIn3D.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/AlmostEngine.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.Timeline.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.Mathematics.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MK.Toon.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/AlmostEngine.Shared.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.InteractionSubsystems.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.Management.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll
@@ -183,8 +185,6 @@ Library: lib_burst_generated64
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll
---root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/AlmostEngine.dll
---root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/AlmostEngine.Shared.dll
 --assembly-folder=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--e943843acfb78f5f2f3716a6553740d9
