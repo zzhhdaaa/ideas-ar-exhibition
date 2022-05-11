@@ -116,6 +116,11 @@ Library: lib_burst_generated64
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=UNITY_XR_ARKIT_LOADER_ENABLED
 --compilation-defines=AMPLIFY_SHADER_EDITOR
+--compilation-defines=MOREMOUNTAINS_NICEVIBRATIONS_INSTALLED
+--compilation-defines=MOREMOUNTAINS_FEEDBACKS
+--compilation-defines=MOREMOUNTAINS_TOOLS
+--compilation-defines=MOREMOUNTAINS_TOOLS_FOR_MMFEEDBACKS
+--compilation-defines=MOREMOUNTAINS_TEXTMESHPRO_INSTALLED
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
@@ -146,6 +151,8 @@ Library: lib_burst_generated64
 --compilation-defines=MODULE_PARTICLE_SYSTEM_EXISTS
 --compilation-defines=UNITY_ANALYTICS
 --compilation-defines=TIMELINE_FRAMEACCURATE
+--compilation-defines=MOREMOUNTAINS_URP_INSTALLED
+--compilation-defines=NICE_VIBRATIONS_INPUTSYSTEM_INSTALLED
 --generate-link-xml=Temp/burst.link.xml
 --generate-static-linkage-methods
 --output=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/StaticLibraries/lib_burst_generated64
@@ -185,6 +192,20 @@ Library: lib_burst_generated64
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll
 --root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feedbacks.URP.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feedbacks.MMTools.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Lofelt.NiceVibrations.Demo.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feedbacks.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Tools.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feedbacks.NiceVibrations.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feel.Demos.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/Lofelt.NiceVibrations.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feedbacks.TextMeshPro.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.MMFeedbacks.Demos.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Tools.Feedbacks.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feel.Demos.URP.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Feel.Demos.HDRP.dll
+--root-assembly=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/MoreMountains.Tools.TextMeshPro.dll
 --assembly-folder=/Users/zzhhdaaa/Desktop/Unity Projects/ideas-ar-exhibition/Temp/StagingArea/Data/Managed/
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ReorderJob`1[[UnityEngine.Rendering.Universal.LightMinMaxZ, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--e943843acfb78f5f2f3716a6553740d9

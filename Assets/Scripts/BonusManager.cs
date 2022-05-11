@@ -11,6 +11,8 @@ public class BonusManager : MonoBehaviour
     [HideInInspector]
     public int count;
 
+    private bool isFirst = true;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -27,9 +29,10 @@ public class BonusManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(count >= 4)
+        if(count >= 4 && isFirst)
         {
             GameObject.Instantiate(bonus, transform.position, Quaternion.identity);
+            isFirst = false;
         }
     }
 }

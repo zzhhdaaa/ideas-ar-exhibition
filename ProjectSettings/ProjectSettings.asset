@@ -153,6 +153,8 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -766,7 +768,7 @@ PlayerSettings:
     WebGL: 
     Windows Store Apps: 
     XboxOne: 
-    iPhone: UNITY_XR_ARKIT_LOADER_ENABLED;AMPLIFY_SHADER_EDITOR
+    iPhone: UNITY_XR_ARKIT_LOADER_ENABLED;AMPLIFY_SHADER_EDITOR;MOREMOUNTAINS_NICEVIBRATIONS_INSTALLED;MOREMOUNTAINS_FEEDBACKS;MOREMOUNTAINS_TOOLS;MOREMOUNTAINS_TOOLS_FOR_MMFEEDBACKS;MOREMOUNTAINS_TEXTMESHPRO_INSTALLED
     tvOS: 
   additionalCompilerArguments: {}
   platformArchitecture:
