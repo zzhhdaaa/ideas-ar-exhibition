@@ -9,10 +9,4 @@ public class BonusAdd : MonoBehaviour
     {
         BonusManager.instance.count++;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
