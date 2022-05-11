@@ -155,8 +155,6 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -766,7 +764,7 @@ PlayerSettings:
     PS4: 
     PS5: 
     Stadia: 
-    Standalone: 
+    Standalone: MOREMOUNTAINS_NICEVIBRATIONS_INSTALLED;MOREMOUNTAINS_FEEDBACKS;MOREMOUNTAINS_TOOLS;AMPLIFY_SHADER_EDITOR;MOREMOUNTAINS_TOOLS_FOR_MMFEEDBACKS;MOREMOUNTAINS_TEXTMESHPRO_INSTALLED
     WebGL: 
     Windows Store Apps: 
     XboxOne: 
