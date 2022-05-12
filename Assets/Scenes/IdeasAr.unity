@@ -8164,7 +8164,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'zzhhdaaa@gmail.com, Daaa Zhao
 
-    ge98@g.ucla.edu, Evelyn Ge'
+    eve.6yn@gmail.com, Evelyn Ge'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 581c047ed60765249b12f37ff2895497, type: 2}
   m_sharedMaterial: {fileID: 21082280118058838, guid: 581c047ed60765249b12f37ff2895497,
@@ -10794,7 +10794,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Daaa Zhao, Evelyn Ge, Steve Wang, Landy Niu, Hongyu Lin, Yafen Li, Krishna
+  m_text: Evelyn Ge, Daaa Zhao, Steve Wang, Landy Niu, Hongyu Lin, Yafen Li, Krishna
     Barot, Abtin Shahverdi, Jiawen Liu, Ting Su, Yves Lu, Yueh-Jung Lu
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 581c047ed60765249b12f37ff2895497, type: 2}
@@ -15236,7 +15236,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CONTENT CREATOR
+  m_text: 3D DESIGNER
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 581c047ed60765249b12f37ff2895497, type: 2}
   m_sharedMaterial: {fileID: 21082280118058838, guid: 581c047ed60765249b12f37ff2895497,
