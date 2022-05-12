@@ -50,11 +50,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlakesNormal:
-        m_Texture: {fileID: 2800000, guid: 8f66c1c8460e4419a467d27f526fad23, type: 3}
+        m_Texture: {fileID: 2800000, guid: b3959925d77e1d44fac301691de942f6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlakesRGBcolorvariationAmask:
-        m_Texture: {fileID: 2800000, guid: 67895d953be64bc4bd0b09b78633f920, type: 3}
+        m_Texture: {fileID: 2800000, guid: b3959925d77e1d44fac301691de942f6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -97,24 +97,24 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
-    - _BaseOcclusion: 1.6204118
-    - _BaseSmoothness: 0.447
+    - _BaseOcclusion: 1.31
+    - _BaseSmoothness: 0.493
     - _Blend: 0
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _CoatAmount: 2.33
-    - _CoatBump: 0.117
-    - _CoatSmoothness: 0.265
+    - _CoatAmount: 2.73
+    - _CoatBump: 0.169
+    - _CoatSmoothness: 0.392
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FlakeColorVariationAmount: 0.121
+    - _FlakeColorVariationAmount: 1
     - _FlakesBump: 0.111
-    - _FlakesSmoothness: 0.809
+    - _FlakesSmoothness: 0.71
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1

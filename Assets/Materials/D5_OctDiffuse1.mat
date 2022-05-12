@@ -63,11 +63,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlakesNormal:
-        m_Texture: {fileID: 2800000, guid: 8f66c1c8460e4419a467d27f526fad23, type: 3}
+        m_Texture: {fileID: 2800000, guid: 37a5998168fd7ff4e867bf39ba23c1d7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlakesRGBcolorvariationAmask:
-        m_Texture: {fileID: 2800000, guid: 67895d953be64bc4bd0b09b78633f920, type: 3}
+        m_Texture: {fileID: 2800000, guid: 19241c0c3afaa3240b498de976409dd0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -110,7 +110,7 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
-    - _BaseOcclusion: 1.6204118
+    - _BaseOcclusion: 1.37
     - _BaseSmoothness: 0.447
     - _Blend: 0
     - _BumpScale: 1
@@ -125,7 +125,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FlakeColorVariationAmount: 0.121
+    - _FlakeColorVariationAmount: 0.158
     - _FlakesBump: 0.111
     - _FlakesSmoothness: 0.809
     - _GlossMapScale: 1
@@ -148,11 +148,11 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 0.8, g: 0.8, b: 0.8, a: 1}
-    - _BaseColor1: {r: 1, g: 0.7874528, b: 0.0990566, a: 0}
-    - _BaseColor2: {r: 0.6037736, g: 0.088287644, b: 0.43413645, a: 0}
+    - _BaseColor1: {r: 1, g: 0.64678967, b: 0, a: 0}
+    - _BaseColor2: {r: 0, g: 1, b: 0.30853224, a: 0}
     - _Color: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _FlakesColor1: {r: 0.99747145, g: 1, b: 0, a: 0}
-    - _FlakesColor2: {r: 0.77254903, g: 0.32329497, b: 0, a: 0}
+    - _FlakesColor1: {r: 1, g: 0, b: 0.015590668, a: 0}
+    - _FlakesColor2: {r: 0, g: 1, b: 0.9201925, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []

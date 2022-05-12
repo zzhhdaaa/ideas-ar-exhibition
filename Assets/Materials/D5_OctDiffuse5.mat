@@ -50,11 +50,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlakesNormal:
-        m_Texture: {fileID: 2800000, guid: 8f66c1c8460e4419a467d27f526fad23, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06b56f8e25d9b0c49a8627b49fc05973, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FlakesRGBcolorvariationAmask:
-        m_Texture: {fileID: 2800000, guid: 67895d953be64bc4bd0b09b78633f920, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06b56f8e25d9b0c49a8627b49fc05973, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -112,7 +112,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FlakeColorVariationAmount: 0.121
+    - _FlakeColorVariationAmount: 1
     - _FlakesBump: 0.111
     - _FlakesSmoothness: 0.809
     - _GlossMapScale: 1
