@@ -1209,7 +1209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 586c6aae5bc1746f4a800641cfe8c09c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bonus: {fileID: 3089219489635940528, guid: 9074721bf814149a78b3a39ae2a9a0ea, type: 3}
+  bonus: {fileID: 5668616683468794069, guid: 9074721bf814149a78b3a39ae2a9a0ea, type: 3}
   count: 0
 --- !u!4 &42944260
 Transform:
@@ -5212,7 +5212,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ObjectsToPlace:
-  - {fileID: 1036227944020301021, guid: 6862f35718ae14db499b0bc9aa2221c1, type: 3}
+  - {fileID: 5954275286149560720, guid: 56fa1813eb7ef304d8b4b6daeaa2b9a5, type: 3}
   - {fileID: 1900517250669655961, guid: a5e3c8780ea187f42ae8ca09c4dab67e, type: 3}
   - {fileID: 6130816974436761668, guid: 0229ba762fba55d449fab8060075f02d, type: 3}
   - {fileID: 1079947355573974539, guid: feec3a52515afb04ea45245593131b98, type: 3}
@@ -10541,6 +10541,10 @@ PrefabInstance:
     - target: {fileID: 100038, guid: 17f70b34ca78a8843aeba4110051a266, type: 3}
       propertyPath: m_Name
       value: ScreenshotManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 100038, guid: 17f70b34ca78a8843aeba4110051a266, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 17f70b34ca78a8843aeba4110051a266, type: 3}
       propertyPath: m_RootOrder
